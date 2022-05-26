@@ -16,3 +16,4 @@ I used HTML, CSS, and JavaScript. I found YouTube tutorials really helpful, but 
 
 - Another feature using DOM manipulation
 - Some fun pictures
+- Sort out my workstations
