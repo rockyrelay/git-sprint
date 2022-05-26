@@ -12,3 +12,7 @@ This is my application website showcasing what I've been working on
 
 I used HTML, CSS, and JavaScript. I found YouTube tutorials really helpful, but mostly used CodeCademy. 
 
+## What I would have done if I had time
+
+- Another feature using DOM manipulation
+- Some fun pictures
